@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T09:38:39.563Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="XLaif0NfE1A3y8X_wAA3" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T09:39:35.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="v4ZBghFdSehQ28wbW7CQ" version="22.0.4" type="github">
   <diagram name="Page-1" id="uPg6snv2tzJXgFNiM9jB">
     <mxGraphModel dx="674" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="vUhW8tttIEPbLT15ki83-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vUhW8tttIEPbLT15ki83-34" target="vUhW8tttIEPbLT15ki83-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUhW8tttIEPbLT15ki83-38" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="531" y="180" width="75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vUhW8tttIEPbLT15ki83-40" value="DELETE request to remove a note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
