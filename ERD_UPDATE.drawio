@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T10:31:58.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="J_NXg6Jq7u6SpyJTMu_Z" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T10:34:07.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="d0uRgdngNSOaaWhgaa3k" version="23.1.5" type="github">
   <diagram name="Page-1" id="_qKNAqYmXroplIytZOEy">
-    <mxGraphModel dx="2020" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,6 +474,21 @@
         </mxCell>
         <mxCell id="XHGAFbhJSEHdfEQD5PCM-12" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="568" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGAFbhJSEHdfEQD5PCM-13" value="1..* work at &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="234" y="678" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGAFbhJSEHdfEQD5PCM-14" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="678" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGAFbhJSEHdfEQD5PCM-15" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548" y="664" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGAFbhJSEHdfEQD5PCM-17" value="servies &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="533" y="648" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGAFbhJSEHdfEQD5PCM-18" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="758" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
