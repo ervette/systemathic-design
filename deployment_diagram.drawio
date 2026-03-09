@@ -1,9 +1,263 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.6.0">
   <diagram name="Page-1" id="i1uS6OucTbXERV4HS5aV">
-    <mxGraphModel>
+    <mxGraphModel dx="1162" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="720" width="640" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-9" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="140" />
+              <mxPoint x="310" y="140" />
+            </Array>
+            <mxPoint x="310" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Warehouse Operators" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-10" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="130" />
+              <mxPoint x="330" y="130" />
+              <mxPoint x="330" y="160" />
+            </Array>
+            <mxPoint x="330" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Retailers" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-11" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="130" />
+              <mxPoint x="350" y="130" />
+              <mxPoint x="350" y="160" />
+            </Array>
+            <mxPoint x="350" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Delivery Companies" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-12" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="140" />
+              <mxPoint x="370" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Payment Provider" vertex="1">
+          <mxGeometry height="40" width="120" x="520" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-13" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="210" />
+              <mxPoint x="180" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-14" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-15" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="210" />
+              <mxPoint x="500" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Load Balancer" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-55" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EMEA" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-56" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Americas" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-57" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="APAC" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-18" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="App" vertex="1">
+          <mxGeometry height="312" width="120" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-20" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="API Gateway" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-21" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Auth/Authz Service" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-30" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Event Bus" vertex="1">
+          <mxGeometry height="26" width="120" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-29" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Saga Coordinator" vertex="1">
+          <mxGeometry height="26" width="120" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-28" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Integration Hub" vertex="1">
+          <mxGeometry height="26" width="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-27" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Logging Utility" vertex="1">
+          <mxGeometry height="26" width="120" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-26" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory Service" vertex="1">
+          <mxGeometry height="26" width="120" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-25" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing Service" vertex="1">
+          <mxGeometry height="26" width="120" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-24" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Reporting Service" vertex="1">
+          <mxGeometry height="26" width="120" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-23" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory DB" vertex="1">
+          <mxGeometry height="26" width="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-22" parent="JWRI1SLEKwbP2UleLTNk-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing DB" vertex="1">
+          <mxGeometry height="26" width="120" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-31" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="App" vertex="1">
+          <mxGeometry height="312" width="120" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-32" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="API Gateway" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-33" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Auth/Authz Service" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-34" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Event Bus" vertex="1">
+          <mxGeometry height="26" width="120" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-35" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Saga Coordinator" vertex="1">
+          <mxGeometry height="26" width="120" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-36" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Integration Hub" vertex="1">
+          <mxGeometry height="26" width="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-37" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Logging Utility" vertex="1">
+          <mxGeometry height="26" width="120" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-38" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory Service" vertex="1">
+          <mxGeometry height="26" width="120" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-39" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing Service" vertex="1">
+          <mxGeometry height="26" width="120" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-40" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Reporting Service" vertex="1">
+          <mxGeometry height="26" width="120" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-41" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory DB" vertex="1">
+          <mxGeometry height="26" width="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-42" parent="JWRI1SLEKwbP2UleLTNk-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing DB" vertex="1">
+          <mxGeometry height="26" width="120" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-43" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="App" vertex="1">
+          <mxGeometry height="312" width="120" x="440" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-44" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="API Gateway" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-45" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Auth/Authz Service" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-46" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Event Bus" vertex="1">
+          <mxGeometry height="26" width="120" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-47" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Saga Coordinator" vertex="1">
+          <mxGeometry height="26" width="120" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-48" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Integration Hub" vertex="1">
+          <mxGeometry height="26" width="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-49" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Logging Utility" vertex="1">
+          <mxGeometry height="26" width="120" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-50" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory Service" vertex="1">
+          <mxGeometry height="26" width="120" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-51" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing Service" vertex="1">
+          <mxGeometry height="26" width="120" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-52" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Reporting Service" vertex="1">
+          <mxGeometry height="26" width="120" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-53" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Inventory DB" vertex="1">
+          <mxGeometry height="26" width="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-54" parent="JWRI1SLEKwbP2UleLTNk-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Billing DB" vertex="1">
+          <mxGeometry height="26" width="120" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-58" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Reporting &amp;amp; Analytics&amp;nbsp;" vertex="1">
+          <mxGeometry height="78" width="120" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-59" parent="JWRI1SLEKwbP2UleLTNk-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Lake" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-60" parent="JWRI1SLEKwbP2UleLTNk-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Warehouse" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-63" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Reporting &amp;amp; Analytics&amp;nbsp;" vertex="1">
+          <mxGeometry height="78" width="120" x="280" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-64" parent="JWRI1SLEKwbP2UleLTNk-63" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Lake" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-65" parent="JWRI1SLEKwbP2UleLTNk-63" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Warehouse" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-66" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Reporting &amp;amp; Analytics&amp;nbsp;" vertex="1">
+          <mxGeometry height="78" width="120" x="440" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-67" parent="JWRI1SLEKwbP2UleLTNk-66" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Lake" vertex="1">
+          <mxGeometry height="26" width="120" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-68" parent="JWRI1SLEKwbP2UleLTNk-66" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Data Warehouse" vertex="1">
+          <mxGeometry height="26" width="120" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-69" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="567" />
+              <mxPoint x="260" y="650" />
+              <mxPoint x="340" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-70" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="567" />
+              <mxPoint x="100" y="650" />
+              <mxPoint x="180" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWRI1SLEKwbP2UleLTNk-71" edge="1" parent="1" source="JWRI1SLEKwbP2UleLTNk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JWRI1SLEKwbP2UleLTNk-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="567" />
+              <mxPoint x="420" y="650" />
+              <mxPoint x="500" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
