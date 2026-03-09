@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.6.0">
   <diagram name="Page-1" id="cYAt8S0uPZ29EUwPfZVo">
-    <mxGraphModel>
+    <mxGraphModel dx="719" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-21" edge="1" parent="1" source="AB-DuRexiY6bbtlhh9m5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AB-DuRexiY6bbtlhh9m5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Receive inbound stock" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inventory Service" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inventory DB" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Event Bus" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-42" edge="1" parent="1" source="AB-DuRexiY6bbtlhh9m5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AB-DuRexiY6bbtlhh9m5-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update stock levels" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Successful?" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saga Coordinator" vertex="1">
+          <mxGeometry height="40" width="100" x="460" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-43" edge="1" parent="1" source="AB-DuRexiY6bbtlhh9m5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AB-DuRexiY6bbtlhh9m5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Write inventory update" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-DuRexiY6bbtlhh9m5-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Log Data Update Failure" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
